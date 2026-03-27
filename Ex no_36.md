@@ -13,7 +13,7 @@ To write a C program to print the given string.
 ## ALGORITHM:
 1. Start.
 2. Define a variables.
-3. Write a program to print the given string.
+3. Write a program to print the given string. 
 4. Read the value using scanf.
 5. Ask the user to make an input.
 6. Print out the answer.
